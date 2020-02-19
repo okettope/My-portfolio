@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f8930967.chunk.css",
+    "main.js": "/static/js/main.9e72b135.chunk.js",
+    "main.js.map": "/static/js/main.9e72b135.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e445fe4d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e445fe4d.js.map",
+    "static/css/2.a976b41b.chunk.css": "/static/css/2.a976b41b.chunk.css",
+    "static/js/2.17aae6ad.chunk.js": "/static/js/2.17aae6ad.chunk.js",
+    "static/js/2.17aae6ad.chunk.js.map": "/static/js/2.17aae6ad.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.369732bc7bd5111af7e5eaf0380c793f.js": "/precache-manifest.369732bc7bd5111af7e5eaf0380c793f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a976b41b.chunk.css.map": "/static/css/2.a976b41b.chunk.css.map",
+    "static/css/main.f8930967.chunk.css.map": "/static/css/main.f8930967.chunk.css.map",
+    "static/js/2.17aae6ad.chunk.js.LICENSE.txt": "/static/js/2.17aae6ad.chunk.js.LICENSE.txt",
+    "static/media/CornCodes.png": "/static/media/CornCodes.a557812c.png",
+    "static/media/CornDesign.jpg": "/static/media/CornDesign.2ebb51df.jpg",
+    "static/media/CornPower.jpeg": "/static/media/CornPower.ed267a43.jpeg",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e445fe4d.js",
+    "static/css/2.a976b41b.chunk.css",
+    "static/js/2.17aae6ad.chunk.js",
+    "static/css/main.f8930967.chunk.css",
+    "static/js/main.9e72b135.chunk.js"
+  ]
+}
